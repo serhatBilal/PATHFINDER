@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854733691621",
+    "project_id": "patfinder-dcebb",
+    "storage_bucket": "patfinder-dcebb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854733691621:android:2e3eb0c4233ca6f820920c",
+        "android_client_info": {
+          "package_name": "com.example.pathfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854733691621-kf1ggvadklqeddqe0t5gnhal3g1sf7qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZLTWlIAwtq1FfFXPL7QUwGgNKDDrKj7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854733691621-kf1ggvadklqeddqe0t5gnhal3g1sf7qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
